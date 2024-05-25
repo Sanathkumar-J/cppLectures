@@ -1,0 +1,1 @@
+//same as sortone but here including 1 and 0 i should lso take 2 as input
